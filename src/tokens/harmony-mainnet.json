@@ -246,5 +246,13 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x109Ea9ba1029EfE847058f734404c909324551e4",
+    "symbol": "NTE",
+    "name": "Nebula Two Tie",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/Pixied18/NebulaTwoTie/3c21b8e3a49b167159746cbca1eea8e7063a7ffd/NebulaTwoTie.png"
   }
 ]
